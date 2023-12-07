@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+---
+aliases: [root]
+dg-publish: true
+title: "Home"
+created: 2023-03-16T01:43:53+01:00
+updated: 2023-12-07T02:20:50+01:00
+---
+# Hey 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to my [digital garden](https://maggieappleton.com/garden-history).
 
-## Commands
+I use this as a frictionless way to
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- communicate my thoughts via blog post
+- quickly reference my notes.
 
-## Project layout
+If you've got any questions or interesting technical problems, please reach out to
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- email: `h(at)kool(dot)casa`
+
+Huy (he/him)
