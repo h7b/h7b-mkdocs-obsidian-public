@@ -2,9 +2,12 @@
 aliases:
   - Compare tax on investment VN vs US
 createdAt: 2023-03-16T01:43:53+01:00
-modifiedAt: 2023-04-16T17:47:09+02:00
-title: Compare tax on investment VN vs US
+date:
+  created: 2023-03-16T01:43:53+01:00
+  updated: 2023-04-16T17:47:09+02:00
 dg-publish: true
+modifiedAt: 2023-12-07T02:05:15+01:00
+title: Compare tax on investment VN vs US
 ---
 
 # Compare tax on investment VN vs US
